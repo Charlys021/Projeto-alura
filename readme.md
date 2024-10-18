@@ -27,8 +27,7 @@ Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Plat
 <br>
 <br>
 
-<br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
+
 
 ## 🚀 Tecnologias
 
@@ -57,23 +56,3 @@ Também aplicamos o uso de "media-queries" para implementação dos layouts de r
 Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução HD, adaptei o código também para sua resolução com mais um media-querie screen (min-width: 1366px) com alguns ajustes adicionais, que se adapou perfeitamente ao projeto original.<br>
 
 Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
-
-<br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀
-
-## 🔖 Layout
-🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
-
-## :memo: Licença
-
-<p>Este projeto está sob a licença MIT.
-<br>
----
-
-Feito ❤️‍ by Roberto Junior 😁:wave: 
-<br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
-
-    
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, podemos nos conectar para trocas de ideias e novos projetos.
-  <br>
-  <br>
-<p> Até a próxima! 😁🖖.
