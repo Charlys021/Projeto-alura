@@ -1,17 +1,7 @@
-<h1 align="center"> Projeto Alura Books</h1>
+<h1 align="center">Projeto Alura Books</h1>
 
 <p align="center">
-Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
-</p>
-
-<p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licenç<h1 align="center"> Projeto Alura Books</h1>
-
-<p align="center">
-Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Platafroma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
+Este é o 3º projeto desenvolvido na Formação Front End da Plataforma Alura, apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman.<br/>
 </p>
 
 <p align="center">
@@ -21,86 +11,54 @@ Este é o 3º projeto desenvolvido que faz parte da Formação Front End da Plat
   <a href="#memo-licença">Licença</a>
 </p>
 
-
 <p align="center">
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
 
-  <div align="center">
+<div align="center">
     <a target="_blank" href="https://robertojunnior.github.io/alura-books/">
     <img width="90%" src="img/projeto-figma.png" alt="alura-books">
     </a>
-  </div>
+</div>
 
 <br>
-<br>
 
-<br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
+🧑‍🚀 Este projeto foi desenvolvido no curso "A partir do zero: HTML, CSS para projetos web", que abrange 6 módulos com um total de 51 horas de conteúdo.
 
 ## 🚀 Tecnologias
 
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
+As tecnologias utilizadas neste projeto incluem:
 
-<li> HTML
-<li> CSS
-<li> Figma
-<li> Git and GitHub
-
+- HTML
+- CSS
+- Figma
+- Git e GitHub
 
 ## 💻 Projeto
 
-Foi utilizado a metodologia "BEM" neste projeto aplicado pela Instrutora Monica Hillman, onde ela adotou a abordagem de construção do projeto como "Mobile First", que se entende por qualquer projeto web que leve em consideração a usabilidade em dispositivos móveis primeiro.
+A metodologia "BEM" foi aplicada sob a orientação de Monica Hillman, que adotou uma abordagem "Mobile First", priorizando a usabilidade em dispositivos móveis. 
 
-Ela revisou alguns conceitos como flexbox, listas e ancoras, criou um menu suspenso interativo, com botão hamburguer sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.<br>
+Foram revisados conceitos como flexbox, listas e âncoras, e criado um menu suspenso interativo com botão hamburger, tudo isso sem o uso de JavaScript. O menu foi estilizado com pseudo classes ":hover" e ":checked", e também implementamos campos de pesquisa com inputs e labels.
 
-A Monica nos apresentou o <a target="_blank" href="https://swiperjs.com/">"SwiperJs"</a>, que é um framework de javascript criado e utilizado para a apresentação na forma de slides de uma forma moderna, estilizada e fácil de se implementar, disponível também em Angular, Vue, Solid, Svelte e React.<br>
+A instrutora também nos apresentou o <a target="_blank" href="https://swiperjs.com/">"SwiperJs"</a>, um framework de JavaScript ideal para apresentação em slides de forma moderna e estilizada, disponível em várias tecnologias como Angular, Vue, Solid, Svelte e React.
 
-Também aplicamos o uso de "media-queries" para implementação dos layouts de responsividade conforme projeto desenvolvido no Figma para: <br>
+Utilizamos "media-queries" para implementar layouts responsivos conforme o projeto desenvolvido no Figma:
+- Mobile (min-width: 428px);
+- Tablet (min-width: 1024px);
+- Desktop (min-width: 1728px).
 
-<li>Mobile (min-width; 428px); 
-<li>Tablet (min-widtth: 1024px);
-<li>Desktop (min-width: 1728px).<br>
+Adicionalmente, para adequar o projeto ao meu notebook de 15.6" com resolução HD, incluí um media-query (min-width: 1366px) com ajustes que se integraram bem ao design original.
 
-Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução HD, adaptei o código também para sua resolução com mais um media-querie screen (min-width: 1366px) com alguns ajustes adicionais, que se adapou perfeitamente ao projeto original.<br>
+No final do curso, realizamos testes de usabilidade e responsividade em diferentes telas. Na folha de estilo "header.css", ajustei a classe ".lista__menu" com um "z-index: 2" para evitar sobreposição com o "pagination" do primeiro carrossel no mobile, eliminando bugs visuais.
 
-Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
-
-<br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀
+Para visualizar a versão atual do projeto, basta <a href="https://robertojunnior.github.io/alura-books/">clicar aqui</a>! 🚀
 
 ## 🔖 Layout
-🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
+
+🖼️ O layout deste projeto foi desenvolvido pela Alura no Figma.
 
 ## :memo: Licença
 
-<p>Este projeto está sob a licença MIT.
-<br>
----
-
-sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.<br>
-
-A Monica nos apresentou o <a target="_blank" href="https://swiperjs.com/">"SwiperJs"</a>, que é um framework de javascript criado e utilizado para a apresentação na forma de slides de uma forma moderna, estilizada e fácil de se implementar, disponível também em Angular, Vue, Solid, Svelte e React.<br>
-
-Também aplicamos o uso de "media-queries" para implementação dos layouts de responsividade conforme projeto desenvolvido no Figma para: <br>
-
-<li>Mobile (min-width; 428px); 
-<li>Tablet (min-widtth: 1024px);
-<li>Desktop (min-width: 1728px).<br>
-
-Como uma de minhas telas que utilizo é a do notebook de 15.6" com resolução HD, adaptei o código também para sua resolução com mais um media-querie screen (min-width: 1366px) com alguns ajustes adicionais, que se adapou perfeitamente ao projeto original.<br>
-
-Ao final do curso realizamos testes de usabilidade, responsividade multi telas e na folha de estilo "header.css", classe ".lista__menu", adicionei um "z-index: 2" devido ela estar aparecendo sob o "pagination" do primeiro carrossel no "Mobile", zerando qualquer "bug" visual no projeto.<br>
-
-<br>Para visualizar a versão atual do projeto é só<a href="https://robertojunnior.github.io/alura-books/"> "Clicar aqui".</a>🚀
-
-## 🔖 Layout
-🖼️ Este projeto no FIGMA foi desenvolvido por ALURA.<br>
-
-## :memo: Licença
-
-<p>Este projeto está sob a licença MIT.
-<br>
----
-
+Este projeto está sob a licença MIT.
