@@ -79,51 +79,7 @@ Ao final do curso realizamos testes de usabilidade, responsividade multi telas e
 <br>
 ---
 
-Feito ❤️‍ by Roberto Junior 😁:wave: 
-<br>🧑‍🚀[Inscreva-se no canal do YouTube da Alura!](https://www.youtube.com/@Alura)
-
-    
-<h4> Obrigado por visitar meu Git e se chegou até aqui dê um "Follow" que retribuo, podemos nos conectar para trocas de ideias e novos projetos.
-  <br>
-  <br>
-<p> Até a próxima! 😁🖖.
-a</a>
-</p>
-
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-  <div align="center">
-    <a target="_blank" href="https://robertojunnior.github.io/alura-books/">
-    <img width="90%" src="img/projeto-figma.png" alt="alura-books">
-    </a>
-  </div>
-
-<br>
-<br>
-
-<br>
-🧑‍🚀 A idéia deste projeto foi disponibilizada no curso de formação Front End "A partir do zero: Html, Css para projetos web", contendo 6 módulos e um total de 51 horas apresentado por Guilherme Lima, Rafaella Ballerini e Monica Hillman ❤️‍🔥.
-
-## 🚀 Tecnologias
-
-Esse projeto está sendo desenvolvido com as seguintes tecnologias:
-
-<li> HTML
-<li> CSS
-<li> Figma
-<li> Git and GitHub
-
-
-## 💻 Projeto
-
-Foi utilizado a metodologia "BEM" neste projeto aplicado pela Instrutora Monica Hillman, onde ela adotou a abordagem de construção do projeto como "Mobile First", que se entende por qualquer projeto web que leve em consideração a usabilidade em dispositivos móveis primeiro.
-
-Ela revisou alguns conceitos como flexbox, listas e ancoras, criou um menu suspenso interativo, com botão hamburguer sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.<br>
+sem o uso do JavaScript, algo que achei bem legal e ainda estilizamos com uso de pseudo classes ":hover" e ":checked", tendo o 1º contato também com combinadores tipo "~" no css. Também criamos campos de pesquisa com inputs e label.<br>
 
 A Monica nos apresentou o <a target="_blank" href="https://swiperjs.com/">"SwiperJs"</a>, que é um framework de javascript criado e utilizado para a apresentação na forma de slides de uma forma moderna, estilizada e fácil de se implementar, disponível também em Angular, Vue, Solid, Svelte e React.<br>
 
@@ -147,3 +103,4 @@ Ao final do curso realizamos testes de usabilidade, responsividade multi telas e
 <p>Este projeto está sob a licença MIT.
 <br>
 ---
+
