@@ -53,7 +53,7 @@ Adicionalmente, para adequar o projeto ao meu notebook de 15.6" com resolução 
 
 No final do curso, realizamos testes de usabilidade e responsividade em diferentes telas. Na folha de estilo "header.css", ajustei a classe ".lista__menu" com um "z-index: 2" para evitar sobreposição com o "pagination" do primeiro carrossel no mobile, eliminando bugs visuais.
 
-Para visualizar a versão atual do projeto, basta <a href="https://robertojunnior.github.io/alura-books/">clicar aqui</a>! 🚀
+Para visualizar a versão atual do projeto, basta <a href="https://arura-books.vercel.app/#">clicar aqui</a>! 🚀
 
 ## 🔖 Layout
 
